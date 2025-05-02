@@ -1,2 +1,2 @@
-Atividades exigidas e desenvolvidas na faculdade de ciências da computação. Veja todas as ramificações.]
+Atividades exigidas e desenvolvidas na faculdade de ciências da computação. Separei por ramificações.
 Linguagem: C 
